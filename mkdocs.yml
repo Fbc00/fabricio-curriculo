@@ -1,5 +1,6 @@
 site_name: Fabricio
-site_url: https://pip.com/mc
+site_url: https://fabricioassuncao/
+repo_url: https://github.com/Fbc00/fabricio-curriculo
 nav:
   - Home: index.md
 theme: readthedocs
